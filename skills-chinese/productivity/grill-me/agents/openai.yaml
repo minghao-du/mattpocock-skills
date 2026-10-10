@@ -1,0 +1,5 @@
+interface:
+  display_name: "方案质询"
+  short_description: "通过提问打磨计划或设计"
+policy:
+  allow_implicit_invocation: false
